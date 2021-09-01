@@ -1,0 +1,47 @@
+{
+  "outlineTitle": "財務教育講師-課程/團體紀錄表",
+  "outlinePrecautions": "1.一週內完成上傳、填寫時數統計表(google)、才列入時數或計算費用\n2.\t各項費用於紀錄完成後，隔月3日結算、15日入帳；若有特殊情形會預先通知~~",
+  "memberName": "lecturerA",
+  "memberRole": "1",
+  "courseHours": 6,
+  "courseExecuteHours": 5.5,
+  "courseDatetimeString": "110.01.30 (六)09:00-16:00",
+  "courseTopic": "台東兒少兒童組",
+  "courseStudentType": "國小學童(小三~小六)",
+  "courseStudentTypeNote": "約6人",
+  "outlineTarget": "1.基本財務認知\n2.利用繪本了解財務管理的必要性\n3.存錢的重要性及思考想要及需要\n3.生活情境的演練\n",
+  "outlineDetailList": [
+    {
+      "outlineDetailId": "d6bc4a4e39014b78a1c252b2d20a54b0",
+      "outlineDetailStartDateString": "2021-04-15T01:00:00.000Z",
+      "outlineDetailEndDateString": "2021-04-15T02:00:00.000Z",
+      "outlineDetailTopic": "基礎財務認識",
+      "outlineDetailContent": "活動方向\n1.相見歡\n2.我的理財繪本製作\n活動內容\n1.規則說明及自我介紹\n2.繪本DIY:\n(1) 封面及封底製作\n(2) 記帳單說明\n(3) 自我介紹\n3. 金錢蓋蓋樂之默契大考驗：利用肢體活動配合互動，增加對金錢數字的敏感度。\n收斂\n1.記帳本是能夠清楚知道自己的錢收入支出的重要工具。\n2.在這段學習的旅程中，邀請大家一起感受及對話 。\n3.學習好好說話及表達 。\n",
+      "outlineDetailTypeAndTool": "繪本\n硬幣\n"
+    },
+    {
+      "outlineDetailId": "2839c3b49f50415d889daaaa09b48960",
+      "outlineDetailStartDateString": "2021-04-15T02:00:00.000Z",
+      "outlineDetailEndDateString": "2021-04-15T02:15:00.000Z",
+      "outlineDetailTopic": "休息",
+      "outlineDetailContent": "",
+      "outlineDetailTypeAndTool": ""
+    },
+    {
+      "outlineDetailId": "e99331d0e4bf45b7ac3e2ceac2d6f733",
+      "outlineDetailStartDateString": "2021-04-15T02:10:00.000Z",
+      "outlineDetailEndDateString": "2021-04-15T03:00:00.000Z",
+      "outlineDetailTopic": "與錢做朋友",
+      "outlineDetailContent": "說明\n透過問答及繪本內容，討論金錢的重要性及規劃基礎觀念\n內容\n1.沒有錢會怎樣?-管理金錢的重要性。\n2.我的撲滿:數字練習。\n3.我的書包:計算文具及金錢安排。\n收斂\n繪本使用方式說明。\n記帳是財務管理的基礎。\n數學計算及國文閱讀的能力很重要。\n夢想是需要一步一步有計劃地安排的。\n",
+      "outlineDetailTypeAndTool": ""
+    },
+    {
+      "outlineDetailId": "e99331d0e4bf45b7ac3e2ceac2d6f731",
+      "outlineDetailStartDateString": "2021-04-15T03:10:00.000Z",
+      "outlineDetailEndDateString": "2021-04-15T04:00:00.000Z",
+      "outlineDetailTopic": "潘吉的零用錢學習單",
+      "outlineDetailContent": "說明\n影片觀察，金錢使用的技巧及想法思考。\n體驗及分享\n1.分配題目。\n2.播放影片。\n2.觀看影片:潘吉的搞笑日記～一個月的零用錢～。\n影片內容：\n小學生潘吉的媽媽這次給潘吉一個月的零用錢，但潘吉有想好好花用零用錢，但因為無節制的花費，故完全花光光了。\n影片連結：\nhttps://www.youtube.com/watch?v=hWbURwHM8yM\n夢想是需要一步一步有計劃地安排的。\n3.\n討論大家的想法及答案，並給與回饋，收回學習單。\n歸納：\n1.看影片娛樂效果好，但要學會判斷影片的內容及學習。\n2.記帳並非一次就會，需要反覆思考練習。\n3.理財就是學習對自己的決策負責。",
+      "outlineDetailTypeAndTool": "電腦（可上網播音樂）投影機、彩色筆、白板"
+    }
+  ]
+}

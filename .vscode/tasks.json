@@ -1,0 +1,13 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "prune local tracking branches",
+      "type": "shell",
+      "command": "git branch -r | awk '{print $1}' | egrep -v -f /dev/fd/0 <(git branch -vv | grep origin) | awk '{print $1}' | xargs git branch -d",
+      "problemMatcher": []
+    }
+  ]
+}
